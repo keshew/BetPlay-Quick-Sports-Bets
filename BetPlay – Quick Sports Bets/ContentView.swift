@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  BetPlay – Quick Sports Bets
-//
-//  Created by Артём Коротков on 25.09.2025.
-//
-
 import SwiftUI
 
 struct ContentView: View {
